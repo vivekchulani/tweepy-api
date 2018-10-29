@@ -1,5 +1,7 @@
 # tweepy-api
 
+Start twitter stream to gather filtered real time tweets based on market indicators. Tweets stored locally on sqlite db
+
 ## Setting up
 
 ```
